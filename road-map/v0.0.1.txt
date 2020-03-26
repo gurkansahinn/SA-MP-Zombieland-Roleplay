@@ -1,0 +1,32 @@
+- Admin sistemi
+- Çanta tipleri: Spor(25 kg), Askeri(50 kg), Taktiksel(75 kg)
+- Grup sistemi (medikal, teknoloji, tarım)
+- Güvenli bölgeler
+- Tarım
+- Zombiler:
+Yapay zeka, oyun içerisinden dinamik oluşturulabilecek zombiler.
+Zombi sınıfları (Çelimsiz, Boomer, Jumper, Tank)
+Admin duty iken saldırmazlar.
+Bakım modunda saldırmazlar.
+- Vurunca hit textdraw
+- Açlık/susuzluk sistemi (eklendi-yapılandırılmadı)
+- Animasyonlar
+- Donate sistemi
+Maksimum 5 karakter slotu eklenecek.
+- Base oluşturma sistemi
+- Araç sistemi(lootlanabilir, gruba ait veya şahsi)
+- Anti hile
+- Ceset sistemi (zombi ve insanlar için)
+- Avcılık
+- Grup tüccarları
+- Madencilik sistemi
+- Fırın sistemi
+- /tedaviet komutu
+- Jammer kurma sistemi
+- Uydu takip sistemi
+- Mermi üretme sistemi (Gunpowder ile)
+- Achievement (başarım) sistemi
+- Kask ve yelek
+- Yemek çeşitliliği
+- İlaç çeşitliliği
+- Teknolojik olaylar
